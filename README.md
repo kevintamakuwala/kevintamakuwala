@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevintamakuwala&label=Profile%20views&color=0e75b6&style=flat" alt="kevintamakuwala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevintamakuwala" alt="kevintamakuwala" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [kevintamakuwala.netlify.app/](kevintamakuwala.netlify.app/)
+- 👨‍💻 All of my projects are available at [Kevin's Portfolio](kevintamakuwala.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, CSS and Competitive programing.**
 
