@@ -1,5 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kevin Tamakuwala </h1>
+<p align="center"><img src="cover-thompson.png"></p>
+<h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Kevin Tamakuwala </h1>
 
 <p align="center" width="150px">Ask me about Competitive Programming, React and JavaScript</p>
 
@@ -32,12 +32,12 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://kevintamakuwala.netlify.app"><img src="https://img.shields.io/badge/-kevin's Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://kevintamakuwala.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://github.com/kevintamakuwala"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kevintamakuwala"><img src="https://img.shields.io/badge/-Kevin%20Tamakuwala-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kevintamakuwala16@gmail.com"><img src="https://img.shields.io/badge/-kevintamakuwala16@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kev.t16"><img src="https://img.shields.io/badge/-kev.t16-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/kevint16"><img src="https://img.shields.io/badge/-kevint16-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kevintamakuwala"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kevintamakuwala16@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/kev.t16"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.leetcode.com/kevint16"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
