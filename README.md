@@ -5,9 +5,8 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bkevintamakuwala%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintamakuwala&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=kevintamakuwala&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=kevintamakuwala&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevintamakuwala&show_icons=true&locale=en&theme=chartreuse-dark" width="480"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=kevintamakuwala&theme=chartreuse-dark" width="480"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,5 +42,5 @@
 ---
 Credit: [kevintamakuwala](https://github.com/kevintamakuwala)
 
-Last Updated On: 19/04/2023
+Last Updated On: 30/04/2023
 
