@@ -8,6 +8,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevintamakuwala&show_icons=true&locale=en&theme=chartreuse-dark" width="480"></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=kevintamakuwala&theme=chartreuse-dark" width="480"></p>
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintamakuwala&layout=compact&hide=TSQL&theme=chartreuse-dark" width="480"></p>
+
 ### 🛠 &nbsp;Tech Stack
 
 
