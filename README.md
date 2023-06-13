@@ -7,9 +7,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bkevintamakuwala%7D/count.svg" alt="visitor badge"/></p>
 
 
-<p align="center"><img src="https://github-readme-statistics-git-master-kevintamakuwala.vercel.app/api?username=kevintamakuwala&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark" alt="kevintamakuwala" width="480"></p>
+<p align="center"><img src="https://github-readme-stats-kevintamakuwala.vercel.app/api?username=kevintamakuwala&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark" alt="kevintamakuwala" width="480"></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=kevintamakuwala&count_private=true&theme=chartreuse-dark" width="480"></p>
-<p align="center"><img src="https://github-readme-statistics-git-master-kevintamakuwala.vercel.app/api/top-langs/?username=kevintamakuwala&count_private=true&layout=compact&hide=TSQL&theme=chartreuse-dark" width="480"></p>
+<p align="center"><img src="https://github-readme-stats-kevintamakuwala.vercel.app/api/top-langs/?username=kevintamakuwala&count_private=true&layout=compact&hide=TSQL&theme=chartreuse-dark" width="480"></p>
 
 
 
