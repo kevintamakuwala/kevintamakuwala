@@ -1,7 +1,7 @@
 <p align="center"><img src="cover-thompson.png"></p>
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Kevin Tamakuwala </h1>
 
-<p align="center" width="150px">Ask me about Competitive Programming, React and JavaScript</p>
+<p align="center" width="150px">Ask me about Competitive Programming, React, Java and JavaScript</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bkevintamakuwala%7D/count.svg" alt="visitor badge"/></p>
